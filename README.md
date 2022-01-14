@@ -1,10 +1,8 @@
-# Test Driven Development By Example
+# Introduction to JUnit 5 with Maven
 
-All source code examples in the repository are for my [Online Course - Testing Spring Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO)
+All source code examples in the repository are for my [Online Course - Testing Spring Beginner to Guru](https://springframework.guru)
 
-Examples provided have been inspired by Kent Beck's examples in his book [Test-Driven Development By Example](https://amzn.to/2DTP58p)
-
-In this repository, I look at using Beck's classic TDD Money Example - updated to Java 11 and JUnit 5. 
+This source code repository contains JUnit 5 test examples with Maven.
 
 ## Setup
 ### Requirements
